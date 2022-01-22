@@ -1,6 +1,6 @@
 # amazon_clone
 
-Amazon Clone
+I made all functions and UI by myself based on Amazon's design while learning reactjs and nodejs
 
 ![a1](https://user-images.githubusercontent.com/71311738/149652919-edb4e77e-183c-4c66-a3ca-5e59b42ed0c4.jpg)
 ![a2](https://user-images.githubusercontent.com/71311738/149652920-b9bea32f-f4f4-4147-8c14-bd476fff4c2b.jpg)
